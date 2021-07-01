@@ -1,12 +1,12 @@
 ---
-date: '2017-12-21'
-title: 'Full-Stack Engineer'
-company: 'Qwotme'
+date: '2021-07-01'
+title: 'Senior Full Stack Javascript Engineer'
+company: 'Ewagers'
 location: 'Cupertino, CA'
-range: 'July - December 2020'
-url: 'https://www.fiver.com/yasirchaudhry67/'
+url: 'https://ewagers.co/'
+range: 'May - November 2020'
 ---
 
-- Developed and shipped highly interactive web applications for Qwotme Music using Ember.js
-- Built and shipped the Qwotme Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Qwotme Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
+- Developed, Managed highly concurrent waging platform for E-sports using Django that can handle thousands of wages every day with payment protection from stripe.
+
+- Managed a team of Talented Front-End Engineers using Agile and leading a company into a sustainable growth by implementing a innovative consensus system in the E-waging industry.
