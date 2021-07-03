@@ -1,10 +1,10 @@
 ---
-date: '2021-07-01'
+date: '2020-02-01'
 title: 'Senior Full Stack Javascript Engineer'
 company: 'Ewagers'
 location: 'Cupertino, CA'
 url: 'https://ewagers.co/'
-range: 'May - November 2020'
+range: 'May 2020 - November 2020'
 ---
 
 - Developed, Managed highly concurrent waging platform for E-sports using Django that can handle thousands of wages every day with payment protection from stripe.

@@ -1,10 +1,10 @@
 ---
-date: '2021-07-01'
+date: '2021-01-01'
 title: 'Senior Full Stack Javascript Engineer'
 company: 'Carcort'
 location: 'Cupertino, CA'
 url: 'https://carcort.com/'
-range: 'January - May 2021'
+range: 'January 2021 - May 2021'
 ---
 
 - Responsible for managing a team of talented JavaScript Engineers, developing
